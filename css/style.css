@@ -13,3 +13,5 @@
 
 /* HOME */
 @import "./home/introducao.css";
+
+@import "./bicicletas/bicicletas-listas.css";
