@@ -33,4 +33,5 @@
 @import "./termos/termos.css";
 
 /* BICICLETAS */
-@import "./bicicletas/bicicletas.css"
+@import "./bicicletas/bicicletas.css";
+@import "./bicicleta/bicicleta.css";
